@@ -1,0 +1,184 @@
+body {
+    display: block;
+    background-color: white
+    text-align: center;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 50%
+
+}
+.nav-bar{
+    position: fixed;
+    left:0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.header-left{
+    position: absolute;
+    top: 10px;
+    text-align: left;
+    background-color:white;
+}
+#about{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#about:hover{
+    text-decoration: underline;
+}
+#store{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#store:hover{
+    text-decoration: underline;
+}
+.header-right{
+    position: relative;
+    text-align: right;
+}
+#gmail{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#gmail:hover{
+    text-decoration: underline;
+}
+#images{
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+}
+#images:hover{
+    text-decoration: underline;
+}
+.goologo {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    top: 190px;
+}
+.search-bar{
+    text-align: center;
+    position: relative;
+    top: 210px;
+    padding: 4px;
+    z-index: 1;
+    
+}
+#search-bar{
+    padding: 14px;
+    width: 55%;
+    border-color: lightgray;
+    border-radius: 30px;
+    background: none;
+    border-color: lightgrey;
+    
+
+}
+.buttons{
+    text-align: center;
+    position: relative;
+    top: 230px;
+    z-index: 2;
+    padding: 1px;
+}
+#search-button{
+    background-color: whitesmoke;
+    border-color: white;
+    color: grey;
+    border-radius: 5%;
+    padding: 12px;
+    width: 14%;
+    border: none;
+}
+#lucky-button{
+    background-color: whitesmoke;
+    border-color: white;
+    color: grey;
+    border-radius: 5%;
+    padding: 12px;
+    margin-left: 13px;
+    width: 14%;
+    border: none;
+}
+.latestinfo {
+    text-align: center;
+    position: relative;
+    top: 250px;
+    z-index: 3;
+
+}
+
+footer{
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.footer-left{
+    position: absolute;
+    text-align: left;
+}
+#advertising{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#advertising:hover{
+    text-decoration: underline;
+}
+#business{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#business:hover{
+    text-decoration: underline;
+}
+#howsearchworks{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#howsearchworks:hover{
+    text-decoration: underline;
+}
+.footer-right{
+    position: relative;
+    text-align: right;
+}
+#privacy{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#privacy:hover{
+    text-decoration: underline;
+}
+#terms{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#terms:hover{
+    text-decoration: underline;
+}
+#settings{
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+#settings:hover{
+    text-decoration: underline;
+}
